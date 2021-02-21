@@ -29,14 +29,14 @@
 
 ### What specific financial problem is the company or project trying to solve?**
 ---
-    The company has created an oracle service that can connect share data in realtime across blockchains and also incorporate off chain data from markets, weather and other data sources.
+>The company has created an oracle service that can connect share data in realtime across blockchains and also incorporate off chain data from markets, weather and other data sources.
 ---
-    With the increasing speeds and demand in financial markets, prediction markets for weather and finance, desires to be able to beat a competitor to a sale or trade,, Chainlinks oracles and APIs provide a service to anyone that can be integrated via their tokens utility.
+>With the increasing speeds and demand in financial markets, prediction markets for weather and finance, desires to be able to beat a competitor to a sale or trade,, Chainlinks oracles and APIs provide a service to anyone that can be integrated via their tokens utility.
 --- 
 
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-    What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 ---
 >The intended customer for this product is any person, industry, organization or government that needs to access data in realtime.
 --- 
